@@ -4,6 +4,8 @@
 **Language:** Python 3.9+  
 **Type:** Almost passive reconnaissance (until optional screenshot phase)
 
+_As usual, expect some spanglish_
+
 A fast, aggressive and almost completely passive reconnaissance tool for bug bounty hunters and red teamers.  
 One single command → thousands of subdomains + historical URLs + juicy files + live checks + screenshots.
 
