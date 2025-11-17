@@ -1,6 +1,6 @@
 # RECON - (Almost) Passive Recon & Subdomain Enumeration Tool
 
-**Author:** 0xCOrS (with a little help from Claude)  
+**Author:** 0xCOrS (with a little help from my friends (claude and google))  
 **Language:** Python 3.9+  
 **Type:** Almost passive reconnaissance (until optional screenshot phase)
 
