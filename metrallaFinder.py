@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Autor: 0xCOrS con ayudita de Claude
+Autor: 0xCOrS (with a little help from my friends (claude and google))
 Script de Recolección de subdominios y URLs
 Versión: 7
 """
